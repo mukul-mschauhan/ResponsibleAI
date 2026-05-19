@@ -1,5 +1,3 @@
-# ResponsibleAI
-
 # Responsible AI Banking Control Tower
 
 A Streamlit-based banking demo that shows how Responsible AI can be operationalized around a credit-card fraud detection use case.
