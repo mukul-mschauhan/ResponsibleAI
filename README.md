@@ -103,8 +103,6 @@ ANTHROPIC_MODEL=claude-3-5-sonnet-latest
 
 Claude is used only to explain model outputs. It does not make the fraud decision.
 
-## Suggested Bahrain client demo flow
-
 ### Opening message
 
 Banks should not deploy AI by asking only, "Is the model accurate?" A responsible bank asks whether the AI decision is fair, explainable, privacy-safe, monitored, auditable, and controlled by humans where customer harm is possible.
